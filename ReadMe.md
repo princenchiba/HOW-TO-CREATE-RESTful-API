@@ -1,7 +1,6 @@
 
 
 Introduction:
-
 </br>
 
 This is a Beginner's Guide to Creating a RESTful API using Node.js, Ruby on Rails, or Flask
