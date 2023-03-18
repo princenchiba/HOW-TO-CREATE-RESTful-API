@@ -25,8 +25,7 @@ app.use(function(err, req, res, next) {
     } catch (err) {
       console.error(err);
     }
-  }
-  
+  }  
   someAsyncFunction();
 
 // This command handle errors and exceptions using third-party libraries like express-validator
