@@ -26,7 +26,7 @@ Step 2: Implement the CRUD operations
 
 The next step is to implement the CRUD (Create, Read, Update, Delete) operations for your API endpoints. This is where you define the logic for how your API handles requests to create, read, update, or delete data.
 
-See example here: 
+See example here: https://github.com/princenchiba/HOW-TO-CREATE-RESTful-API/blob/main/REST_Endpoints.js 
 
 
 Step 3: Handle errors and exceptions
