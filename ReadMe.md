@@ -76,8 +76,6 @@ See example here: https://github.com/princenchiba/HOW-TO-CREATE-RESTful-API/blob
 
 Step 4: Testing your API with Postman
 
-</br>
-
 1. Open Postman and create a new request by clicking on the "New" button in the top left corner and selecting "Request".
 
 2. Enter the URL of the API endpoint you want to test, select the HTTP method (e.g. GET, POST, PUT, DELETE), and add any required headers or request parameters.
