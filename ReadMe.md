@@ -10,7 +10,9 @@ Requirements:
 Before we get started, you will need to have a basic understanding of programming concepts and a familiarity with the programming language of your choice. You'll also need to have the following software installed on your machine:
 
 •	Node.js, if you are using Node.js
+
 •	Ruby on Rails, if you're using Ruby on Rails
+
 •	Flask, if you are using Flask
 
 
