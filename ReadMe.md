@@ -10,7 +10,6 @@ As software engineers, we are constantly creating applications that need to comm
 Requirements: 
 
 </br>
-</br>
 
 Before we get started, you will need to have a basic understanding of programming concepts and a familiarity with the programming language of your choice. You'll also need to have the following software installed on your machine:
 
