@@ -5,8 +5,9 @@ Introduction:
 This is a Beginner's Guide to Creating a RESTful API using Node.js, Ruby on Rails, or Flask
 As software engineers, we are constantly creating applications that need to communicate with each other. One popular way to do this is by using RESTful APIs. REST is an architectural style that defines a set of constraints to be used when creating web services. In this tutorial, we will walk through how to create a RESTful API using Node.js, Ruby on Rails, or Flask.
 
+</br>
 Requirements: 
-
+</br>
 Before we get started, you will need to have a basic understanding of programming concepts and a familiarity with the programming language of your choice. You'll also need to have the following software installed on your machine:
 
 •	Node.js, if you are using Node.js
@@ -15,16 +16,18 @@ Before we get started, you will need to have a basic understanding of programmin
 
 •	Flask, if you are using Flask
 
-
+</br>
+</br>
 Procedure: 
-
+</br>
 Step 1: Define API endpoints
-
+</br>
 The first step in creating a RESTful API is to define your API endpoints. API endpoints are URLs that your API will expose to allow clients to access and manipulate your data. For example, you might have an API endpoint that allows clients to retrieve a list of all users, or an endpoint that allows clients to create a new user. To define your API endpoints, you will need to create a routing mechanism that maps URLs to the appropriate functions in your code. In Node.js, you can use the Express framework to do this. In Ruby on Rails, you can use the Rails routing mechanism. And in Flask, you can use the Flask routing mechanism.
 
 
 See example here: https://github.com/princenchiba/HOW-TO-CREATE-RESTful-API/blob/main/REST_CRUD.js 
-
+</br>
+</br>
 
 Step 2: Implement the CRUD operations
 
@@ -32,7 +35,8 @@ The next step is to implement the CRUD (Create, Read, Update, Delete) operations
 
 See example here: https://github.com/princenchiba/HOW-TO-CREATE-RESTful-API/blob/main/REST_Endpoints.js 
 
-
+</br>
+</br>
 Step 3: Handle errors and exceptions
 
 It's important to handle errors and exceptions in your API code to provide meaningful feedback to clients. 
@@ -51,24 +55,24 @@ Or
 Use any third-party library that can be used to handle errors and exceptions in Node.js applications. One such library is express-validator.
 
 See example here: https://github.com/princenchiba/HOW-TO-CREATE-RESTful-API/blob/main/REST_error_handling.js 
-
-
+</br>
+</br>
 
 Step 4: Testing your API with Postman
 
-•	Open Postman and create a new request by clicking on the "New" button in the top left corner and selecting "Request".
+1. Open Postman and create a new request by clicking on the "New" button in the top left corner and selecting "Request".
 
-•	Enter the URL of the API endpoint you want to test, select the HTTP method (e.g. GET, POST, PUT, DELETE), and add any required headers or request parameters.
+2. Enter the URL of the API endpoint you want to test, select the HTTP method (e.g. GET, POST, PUT, DELETE), and add any required headers or request parameters.
 
-•	Click the "Send" button to send the request to the API.
+3. Click the "Send" button to send the request to the API.
 
-•	Once the request has been sent, the response will appear in the "Response" tab. You can view the response body, headers, and status code.
+4. Once the request has been sent, the response will appear in the "Response" tab. You can view the response body, headers, and status code.
 
-•	Repeat the above steps to test additional endpoints of your API.
-
-
+5. Repeat the above steps to test additional endpoints of your API.
 
 
+</br>
+</br>
 
 Final Remark
 
