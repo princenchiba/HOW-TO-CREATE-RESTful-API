@@ -22,7 +22,9 @@ Before we get started, you will need to have a basic understanding of programmin
 •	Flask, if you are using Flask
 
 </br>
+
 Procedure: 
+
 </br>
 
 Step 1: Define API endpoints
