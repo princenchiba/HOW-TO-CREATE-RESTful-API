@@ -31,7 +31,6 @@ app.use(function(err, req, res, next) {
 // This command handle errors and exceptions using third-party libraries like express-validator
 
 const { body, validationResult } = require('express-validator');
-
 app.post('/user', 
   body('username').notEmpty(),
   body('email').isEmail(),
