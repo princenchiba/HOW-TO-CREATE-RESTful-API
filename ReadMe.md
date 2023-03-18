@@ -54,19 +54,14 @@ Step 3: Handle errors and exceptions
 </br>
 
 It's important to handle errors and exceptions in your API code to provide meaningful feedback to clients. 
-You can define error handling middleware to handle any errors that occur during the request/response cycle.
 
-Or 
+1. You can define error handling middleware to handle any errors that occur during the request/response cycle.
 
-Use try-catch blocks to catch synchronous errors that occur within your application.
+2. Another method to handle error is by using try-catch blocks to catch synchronous errors that occur within your application.
 
-Or 
+3. You can also use Promises to handle errors that occur in asynchronous code.
 
-Use Promises to handle errors that occur in asynchronous code.
-
-Or
-
-Use any third-party library that can be used to handle errors and exceptions in Node.js applications. One such library is express-validator.
+4. Alternatively, you can use any third-party library that can be used to handle errors and exceptions in Node.js applications. One such library is express-validator.
 
 </br>
 
