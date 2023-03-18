@@ -19,7 +19,7 @@ Step 1: Define API endpoints
 The first step in creating a RESTful API is to define your API endpoints. API endpoints are URLs that your API will expose to allow clients to access and manipulate your data. For example, you might have an API endpoint that allows clients to retrieve a list of all users, or an endpoint that allows clients to create a new user. To define your API endpoints, you will need to create a routing mechanism that maps URLs to the appropriate functions in your code. In Node.js, you can use the Express framework to do this. In Ruby on Rails, you can use the Rails routing mechanism. And in Flask, you can use the Flask routing mechanism.
 
 
-See example here: 
+See example here: https://github.com/princenchiba/HOW-TO-CREATE-RESTful-API/blob/main/REST_CRUD.js 
 
 
 Step 2: Implement the CRUD operations
