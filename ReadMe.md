@@ -69,7 +69,7 @@ See example here: https://github.com/princenchiba/HOW-TO-CREATE-RESTful-API/blob
 
 </br>
 
-Step 4: Testing your API with Postman
+Step 4: Test your API with Postman
 
 1. Open Postman and create a new request by clicking on the "New" button in the top left corner and selecting "Request".
 
